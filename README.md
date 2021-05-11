@@ -1,7 +1,7 @@
-# computational_physics_A
+# Computational Physics A - Code and Reports
 some projects of computational physics A course
 
-以下是2017年秋季学期计算物理A课程的作业，供参考。
+以下是2017年秋季学期计算物理A（丁泽军/孙霞）课程作业的代码报告，供参考。
 
 ### 第一题
 
